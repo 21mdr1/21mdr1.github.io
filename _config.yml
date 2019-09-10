@@ -1,11 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Maria's Website for CSCI 103
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: A website for learning how to make websites and posting assignments.
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
