@@ -13,4 +13,4 @@ Hi my name is Maria Rodriguez Hertz. Because you are probably wondering:
 - I impulse learned JavaScript and Python like three years ago and then proceeded to forget all of it
 - My favorite part of Theatre is design and digital performance, so I am super exited for this class
 
-I feel odd adding a call to action to the end of my about-me, but, if you're interested in anything concerning Theatre (**especially** digital performance) feel free to talk to me? I can talk about liveness for hours.
+I feel odd adding a call to action to the end of my about-me, but, if you're interested in anything concerning Theatre (*especially* digital performance) feel free to talk to me? I can talk about liveness for hours.
