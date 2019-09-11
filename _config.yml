@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Maria Rodriguez Hertz
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,7 +68,7 @@ author:
 social-network-links:
   rss: true
   email: "mdr1@williams.edu"
-  facebook: mariarodriguezhertz
+  facebook: maria.rodriguezhertz
   github: 21mdr1
 #  twitter: daattali
 #  reddit: yourname
