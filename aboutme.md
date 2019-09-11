@@ -4,10 +4,12 @@ title: About me
 subtitle: Some fun things to know about me
 ---
 
-Hi my name is Maria Rodriguez Hertz. Because You are probably wondering:
+Hi my name is Maria Rodriguez Hertz. Because you are probably wondering:
 
-- I am a junior Math and Theatre major
-- I'm extremely loyal to my family
+- I am a junior.
+- I study Math and Theatre
+- I've sown never (well, sometimes)
+- I impulse learned JavaScript and Python like three years ago and then proceeded to forget all of it
 
 What else do you need?
 
