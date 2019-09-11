@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some fun things to know about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi my name is Maria Rodriguez Hertz. Because You are probably wondering:
 
-- I rock a great mustache
+- I am a junior Math and Theatre major
 - I'm extremely loyal to my family
 
 What else do you need?
