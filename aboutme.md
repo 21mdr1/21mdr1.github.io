@@ -6,7 +6,7 @@ subtitle: Some fun things to know about me
 
 Hi my name is Maria Rodriguez Hertz. Because you are probably wondering:
 
-- I am a junior.
+- I am a junior
 - I study Math and Theatre
 - I've sown never (well, I've sown a little bit a long time ago)
 - I ~ have ~ crocheted and done cross-stiching - which may be a claim to something?
