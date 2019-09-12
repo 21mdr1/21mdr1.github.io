@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example MD Post
-subtitle: Each post also has a subtitle
+subtitle: We're here for the fun of it
 bigimg: singing mamma mia unintelligibly.jpg
 tags: [having, fun, times]
 comments: true
