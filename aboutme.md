@@ -4,7 +4,7 @@ title: About me
 subtitle: Some fun things to know about me
 ---
 
-Hi my name is Maria Rodriguez Hertz. Because you are probably wondering:
+Hi my name is Maria Rodriguez Hertz. Here are some fun facts:
 
 - I am a junior
 - I study Math and Theatre
