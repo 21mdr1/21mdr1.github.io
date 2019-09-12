@@ -2,7 +2,7 @@
 layout: post
 title: Example MD Post
 subtitle: We're here for the fun of it
-bigimg: singing mamma mia uninteligibly.jpg
+bigimg: mamma_mia.jpg
 tags: [having, fun, times]
 comments: true
 ---
