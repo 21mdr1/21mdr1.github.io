@@ -9,4 +9,4 @@ comments: true
 
 My [personal website](https://21mdr1.github.io/)???
 
-(Picture from Buzzfeed Unsolved's _Return To The Horrifying Winchester Mansion_
+(Picture from Buzzfeed Unsolved's _Return To The Horrifying Winchester Mansion_)
