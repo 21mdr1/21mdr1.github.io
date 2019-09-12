@@ -22,6 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Assignments:
     - Glow: "https://glow.williams.edu/courses/2557581/assignments"
+    - Schedule: "https://sites.google.com/williams.edu/csci103/"
   Markdown Cheatsheet: "http://www.markdowntutorial.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
