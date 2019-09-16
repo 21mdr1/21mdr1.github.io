@@ -22,7 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Assignments:
     - Glow: "https://glow.williams.edu/courses/2557581/assignments"
-    - Schedule: "https://sites.google.com/williams.edu/csci103/"
+    - Schedule: "https://sites.google.com/williams.edu/csci103/schedule?authuser=0"
   Cheatsheets:
     - Markdown Tutorial: "http://www.markdowntutorial.com/"
     - Markdown Cheatsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
