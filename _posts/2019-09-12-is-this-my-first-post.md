@@ -8,4 +8,4 @@ Hi, my name is Maria! I'm a junior and a Math and Theatre double major. I used t
 
 In the Theatre department I have especially enjoyed design and a Digital Performance class I took. And, I especially enjoy the problemsolving aspect of math. I'm really exited to put those two things together, and especially am exited to learn how to program so that something happens outside of a computer. 
 
-A boring (fun) fact about me is that my ears look different from each other. (I never noticed until junior year of High School)
+A boring fact about me: I'm that one horrible person with no allergies of any sort.
