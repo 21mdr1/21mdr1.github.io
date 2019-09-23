@@ -12,3 +12,6 @@ After a lot of hours spent sitting down with a needle, and a lot of multitasking
 ##### A tip or two for next time:
 1. Being slow and methodical is nice but exhausting, and there are other ways to make nice stitches.
 2. Draw some sort of guideline for the whip stitch, else it will be very uneven.
+
+
+(I had to look up how to resize the image, the only way I could find for it to work was by using html, and I found this in Stack Overflow).
