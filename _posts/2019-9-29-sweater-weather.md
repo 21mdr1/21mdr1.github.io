@@ -10,7 +10,7 @@ In this lovely assignment, we used conditional statements to output different st
 
 An example of an output from my code (for temperature = 69 degrees Fahrenheit) would be:
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Sweater Weather Output](https://21mdr1.github.io/img/Sweater-Weather-Output.png)
 
 
 ##### A Tip for next time:
