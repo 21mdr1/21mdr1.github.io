@@ -5,71 +5,18 @@ subtitle: FROGS AND CRANBERRIES???
 tags: [code, if and then, assignment]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+In this lovely assignment, we used conditional statements to output different statements (on clothing, etc) depending on a variable called temperature. Ie. if you told the program (well, my program) the temperature, it would give you weather gear suggestions and a fun fact relating to the temperature. 
 
 
-How about a yummy crepe?
+An example of an output from my code (for temperature = 69 degrees Fahrenheit) would be:
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+##### A Tip for next time:
 
-Here's a code chunk:
+Check the order that you're placing the conditional statements in. If you have a statement checking if temperature is greater than 10 and then another one checking if temperature is greater than 20, the second statement will never print anything.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+###### Bonus Tip???
+Check if there's a website post to be submitted along with the assignment :'( 
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
