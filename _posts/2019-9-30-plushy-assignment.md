@@ -8,7 +8,7 @@ tags: [circuit, plushy]
 In this project, we made a plushy with LED lights that lights up whenever you turn on a switch and press a button. I tried to decorate mine with a fall theme, but figured out that I'm not very good at making embroidery acorns.
 
 This is the end result:
-![Front of plushy](https://21mdr1.github.io/img/plushy_on.jpg)
+![Front of plushy](https://21mdr1.github.io/img/plushy_off.jpg)
 ![Back of plushy](https://21mdr1.github.io/img/plushy_back.jpg)
 
 
