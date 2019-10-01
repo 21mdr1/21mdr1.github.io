@@ -2,6 +2,7 @@
 layout: post
 title: Light-Up Plushy
 subtitle: It has lights!!!!!!!
+bigimg: /img/squad.jpg
 tags: [circuit, plushy]
 ---
 
