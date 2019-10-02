@@ -11,7 +11,7 @@ In this assignment we use nested ifs to check if a button and a switch are on. I
 
 Here, for example, is the output if the switch and the button are both on:
 
-
+![Plushy Redux Output](https://21mdr1.github.io/img/Plushy-Redux-Output.png)
 
 ##### Tip or trick for next time:
 
