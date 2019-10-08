@@ -13,11 +13,11 @@ This is the end result:
 
 Here is the initial paper prototype:
 
-![Paper Prototype]()
+![Paper Prototype](https://21mdr1.github.io/img/homemade_switches_paper_prototype.jpg)
 
 And here is the alligator clip prototype:
 
-![Alligator clip Prototype](https://21mdr1.github.io/img/alligator_two_buttons.jpg)
+![Alligator clip Prototype](https://21mdr1.github.io/img/homemade_switches_alligator_two_buttons.jpg)
 
 ##### A tip for next time:
 You think you've cut the thread end short enough, but you haven't. (Especially if the light is still on when the buttons aren't pressed)
