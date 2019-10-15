@@ -29,3 +29,8 @@ This firefly turns on and fades up every 3 seconds. This is what it looks like:
 
 #### Tip for next time:
 Understanding the difference between analog and digital input and output is helpful.
+
+
+
+
+(title and first sentence are taken from Fireflies by Owl City) (giving credit where credit's due, ya know)
