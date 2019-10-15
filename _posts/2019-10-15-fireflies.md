@@ -7,24 +7,24 @@ tags: [code, arduino, lights]
 
 'cause I saved a few and I keep them in a jar....
 
-Or, rather, I programed an arduino to look like some fireflies. 
+This time around, we programmed a lilypad arduino to light up like a firefly, in three different ways:
 
-##### Flash Bug
+##### Flash Bulb
 This firefly turns on for half a second every four seconds. And looks something like:
 
-![Flash Bug]()
+![Flash Bulb](htpps://21mdr1.github.io/img/flash_bulb.jpg)
 
 
 ##### Synchronous
 This firefly flashed three times every 10 seconds. It was hard to take a picture of this becasuse the flashes are slightly faster than my camera, but alas:
 
-![Synchronous 1]()
-![Synchronous 2]()
+![Synchronous 1](htpps://21mdr1.github.io/img/synchronous1.jpg)
+![Synchronous 2](htpps://21mdr1.github.io/img/synchronous2.jpg)
 
 ##### Big Dipper
 This firefly turns on and fades up every 3 seconds. This is what it looks like:
 
-![Big Dipper]()
+![Big Dipper](htpps://21mdr1.github.io/img/big_dipper.jpg)
 
 
 #### Tip for next time:
@@ -33,4 +33,4 @@ Understanding the difference between analog and digital input and output is help
 
 
 
-(title and first sentence are taken from Fireflies by Owl City) (giving credit where credit's due, ya know)
+(title and first sentence are taken from Fireflies by Owl City) (gotta give credit where credit's due, ya know)
