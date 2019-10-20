@@ -15,9 +15,9 @@ Unlike last time, this is all in one program and all the 'fireflies' are lightin
 
 Here are some pictures (although it is hard to capture flashing, etc.):
 
-![The Start](https://21mdr1.github.io/img/simultaneous3.jpg){Size=10}
-![Simultaneous 1](https://21mdr1.github.io/img/simultaneous1.jpg){Size=10}
-![Simultaneous 2](https://21mdr1.github.io/img/simultaneous2.jpg){Size=10}
+![The Start](https://21mdr1.github.io/img/simultaneous3.jpg)
+![Simultaneous 1](https://21mdr1.github.io/img/simultaneous1.jpg)
+![Simultaneous 2](https://21mdr1.github.io/img/simultaneous2.jpg)
 
 
 
