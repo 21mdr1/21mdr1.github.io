@@ -13,7 +13,6 @@ Here is what an example of the output looks like:
 ![The rgb light lighting up green](https://www.21mdr1.github.io/img/random_colors_output.jpg)
 
 
-
 ##### A tip for next time:
 Don't make it complicated, that just makes the code inefficient and confusing.
 
