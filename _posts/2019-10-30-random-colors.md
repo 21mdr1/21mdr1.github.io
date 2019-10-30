@@ -10,7 +10,8 @@ For this assignment, we coded the lilypad's buit-in rgb light to light up to one
 
 Here is what an example of the output looks like:
 
-![The rgb light lighting up green](http://www.21mdr1.github.io/img/random_colors_output.jpg)
+![The rgb light lighting up green](https://www.21mdr1.github.io/img/random_colors_output.jpg)
+
 
 
 ##### A tip for next time:
