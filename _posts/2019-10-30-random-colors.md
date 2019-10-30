@@ -14,6 +14,6 @@ Here is what an example of the output looks like:
 
 
 ##### A tip for next time:
-Don't make it complicated, that just makes the code inefficient and confusing.
+Don't make things complicated, that just makes the code inefficient and confusing.
 
 
