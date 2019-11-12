@@ -10,7 +10,7 @@ Unfortunately my vibe board has some loose connection and only vibrated sometime
 
 
 Here's what my setup looked like (since I can't take pictures of sound).
-![Help setup](https://21mdr1.github.io/img/jammin_setup.jpg)
+![Help setup](https://21mdr1.github.io/img/help-setup.jpg)
 
 
 ##### A tip for next time:
