@@ -1,22 +1,42 @@
 ---
 layout: post
-title: Final Project Paper Prototype
-tags: [final project, circuit, code, sewing, paper prototype]
+title: Final Project Report!!!
+subtitle: A Winter Sweater
+tags: [final project, circuit, code, sewing]
 ---
-Project title, description, motivation
+##### Project title, description, motivation
+It is whinter and it is cold but it is fun and festive. So, I made a winter sweater. When it is cold enough, you can turn a switch on that turns on lights which 'warm you up' and you can press a button that turns on fun lights and plays 'Winter Wonderland.' 
 
-Comprehensive materials list
+##### Comprehensive materials list
+- A sweater
+- A temperature Sensor
+- A buzzer
+- 9 LED lights
+  - 3 yellow lights
+  - 2 white lights
+  - 2 green lights
+  - 1 blue light
+  - 1 red light
+- RGB light
+- Lilypad USB Plus
+- Conductive Thread
+- Insulator (tape ...)
+- Scissors, needles, etc.
+- A switch
+- A button
 
-Screenshot of your revised paper prototype of your project
-- Focus on the components and how you'll connect them in a circuit
-- Must be legible! Digital images work well (i.e., grab component images from the Product Website, then connect them in PowerPoint or other image editing software).
-- Will need to be a .JPG, .PNG, .GIF, etc in order to appear on your course website.
-- Should look professional/polished.
+##### Revised paper prototype of your project
+![Revised Paper Prototype](http://21mdr1.github.io/img/paper-prototype-final.png)
 
-1 Photo of your alligator prototype working
+##### Alligator prototype
 
-Photo of at least 3 stages of your working project (or video)
+##### Stages
 
-3 tips to your past self
+##### 3 tips for next time
+- Make the traces very thick, go through them many times.
+- Insulation is your friend - it'll fix a lot of problems
+- Give yourself a LOT of time for debugging
+- Learn more about circuits (the whole physics behind it)
 
-Citations of any resources used
+##### Citations
+[Score for Winter Wonderland](https://pianoandsynth.com/winter-wonderland-mastering-christmas-songs-piano-keyboard/)
