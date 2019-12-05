@@ -29,8 +29,19 @@ It is whinter and it is cold but it is fun and festive. So, I made a winter swea
 ![Revised Paper Prototype](http://21mdr1.github.io/img/paper-prototype-final.png)
 
 ##### Alligator prototype
+Sadly, I did not have enough alligator clips to connect everything together while taking this pictuere, but this is the idea:
+
+![Alligator Prototype](http://21mdr1.github.io/img/alligator-clip.jpg)
 
 ##### Stages
+Some stages of the sewing:
+![First Stage](http://21mdr1.github.io/img/process-1.jpg)
+![Second Stage](http://21mdr1.github.io/img/process-2.jpg)
+![Third Stage](http://21mdr1.github.io/img/process-3.jpg)
+
+And the final product:
+![Front Side](http://21mdr1.github.io/img/final-front.jpg)
+![Back Side](http://21mdr1.github.io/img/final-back.jpg)
 
 ##### 3 tips for next time
 - Make the traces very thick, go through them many times.
