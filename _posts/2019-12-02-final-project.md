@@ -29,9 +29,16 @@ It is whinter and it is cold but it is fun and festive. So, I made a winter swea
 ![Revised Paper Prototype](http://21mdr1.github.io/img/paper-prototype-final.png)
 
 ##### Alligator prototype
-Sadly, I did not have enough alligator clips to connect everything together while taking this pictuere, but this is the idea:
+Sadly, I did not have enough alligator clips to connect everything together, so I had to test the circuit in parts.
 
-![Alligator Prototype](http://21mdr1.github.io/img/alligator-clip.jpg)
+Here I'm testing the temperature sensor, the music and the celebratory lights, as well as the button:
+![part 1](http://21mdr1.github.io/img/final-alligator-1.jpg)
+
+Here I'm testing the temperature sensor, the music, ther rgb, and the celebratory lights (without the button):
+![part 2](http://21mdr1.github.io/img/final-alligator-2.jpg)
+
+Here I'm testing the music, the rgb, one side of the celebratory lights, and the heating lights (without the temperature sensor, the button or the switch):
+![part 3](http://21mdr1.github.io/img/final-alligator-3.jpg)
 
 ##### Stages
 Some stages of the sewing:
